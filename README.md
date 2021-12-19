@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RD-1997
 - 👀 I’m interested in programming, automation and cyber security. 
-- 🌱 I’m cureently preparing for my Red Hat Certified System Administrator (RHSCA) exam. 
+- 🌱 I’m currently preparing for my Red Hat Certified System Administrator (RHSCA) exam. 
 - 💞️ I’m looking to collaborate on anything but server configuration automation with ansible or containerization would be nice!
 
 <!---
